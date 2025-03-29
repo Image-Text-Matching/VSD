@@ -10,20 +10,20 @@ The codes for our paper "Visual Semantic Description Generation with MLLMs for I
 Image-text matching (ITM) aims to address the fundamental challenge of aligning visual and textual modalities, which inherently differ in their representations—continuous, high-dimensional image features vs. discrete, structured text. We propose a novel framework that bridges the modality gap by leveraging multimodal large language models (MLLMs) as visual semantic parsers. By generating rich Visual Semantic Descriptions (VSD), MLLMs provide semantic anchor that facilitate cross-modal alignment. 
 Our approach combines: (1) Instance-level alignment by fusing visual features with VSD to enhance the linguistic expressiveness of image representations, and (2) Prototype-level alignment through VSD clustering to ensure category-level consistency. These modules can be seamlessly integrated into existing ITM models. Extensive experiments on Flickr30K and MSCOCO demonstrate substantial performance improvements. The approach also exhibits remarkable zero-shot generalization to cross-domain tasks, including news and remote sensing ITM.
 
-![overview](C:\Users\lmy\Desktop\VSD\overview.png)
+![overview](https://github.com/Image-Text-Matching/VSD/blob/main/overview.png)
 
 ## Performance
 
-![main_result](C:\Users\lmy\Desktop\VSD\main_result.png)
+![main_result](https://github.com/Image-Text-Matching/VSD/blob/main/main_result.png)
 
-![cross_domin_result](C:\Users\lmy\Desktop\VSD\cross_domin_result.png)
+![cross_domin_result](https://github.com/Image-Text-Matching/VSD/blob/main/cross_domin_result.png)
 
 We  provide the Pre-trained model checkpoint files for two datasets:
 
 - Pre-trained model checkpoints for [Flickr30K](https://drive.google.com/drive/folders/1w8wYmM_SybWI8gRH3leaCtcu_1kpN_JV?usp=drive_link)
 - Pre-trained model checkpoints for [MSCOCO](https://drive.google.com/drive/folders/1LJEUUaJ7WQFZvZ4NmlOz_p_s9yO1eem3?usp=drive_link)
 
-**Note**: We have open-sourced the complete implementation code for GPO+VSD⋆, GPO+VSD†, HREM+VSD⋆, and HREM+VSD†. For the CLIP+VSD⋆ and CLIP+VSD† versions, researchers can reproduce the results based on the technical details in our published paper and the already open-sourced related code. As the structure and organization of this portion of code requires further optimization, we plan to release it after completing the code refactoring.
+**Note**: We have open-sourced the complete implementation code for GPO+VSD⋆, GPO+VSD†, HREM+VSD⋆, and HREM+VSD†. For the CLIP+VSD⋆ and CLIP+VSD† versions, researchers can reproduce the results based on the technical details in our published paper and the already open-sourced related code. As the structure and organization of this portion of code require further optimization, we plan to release it after completing the code refactoring.
 
 ## Preparation
 
