@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Pytorch-EE4C2C)
 
- ![License: MIT](https://img.shields.io/badge/License-Apache 2.0-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-Apache 2.0-yellow.svg)
 
 The codes for our paper "Visual Semantic Description Generation with MLLMs for Image-Text Matching(VSD)", ,which is accepted by the ICME2025. We referred to the implementations of [GPO](https://github.com/woodfrog/vse_infty), [HREM](https://github.com/CrossmodalGroup/HREM), and [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) to build up our codes. We express our gratitude for these outstanding works.
 
