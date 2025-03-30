@@ -101,7 +101,7 @@ VSD
 
 ```
 
-#### Data Sources:视觉语义描述预处理特征
+#### Data Sources:
 
 - Visual semantics describe preprocessed features: [Baidu Yun](https://pan.baidu.com/s/1Dmnf0q9J29m4-fyL7ubqdg?pwd=AAHR) (code: AAHR)
 - BUTD features: [SCAN (Kaggle)](https://www.kaggle.com/datasets/kuanghueilee/scan-features)  or [Baidu Yun](https://pan.baidu.com/s/1Dmnf0q9J29m4-fyL7ubqdg?pwd=AAHR) (code: AAHR)
