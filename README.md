@@ -18,11 +18,6 @@ Our approach combines: (1) Instance-level alignment by fusing visual features wi
 
 ![cross_domin_result](https://github.com/Image-Text-Matching/VSD/blob/main/cross_domin_result.png)
 
-We  provide the Pre-trained model checkpoint files for two datasets:
-
-- Pre-trained model checkpoints for [Flickr30K](https://drive.google.com/drive/folders/1w8wYmM_SybWI8gRH3leaCtcu_1kpN_JV?usp=drive_link)
-- Pre-trained model checkpoints for [MSCOCO](https://drive.google.com/drive/folders/1LJEUUaJ7WQFZvZ4NmlOz_p_s9yO1eem3?usp=drive_link)
-
 **Note**: We have open-sourced the complete implementation code for GPO+VSD⋆, GPO+VSD†, HREM+VSD⋆, and HREM+VSD†. For the CLIP+VSD⋆ and CLIP+VSD† versions, researchers can reproduce the results based on the technical details in our published paper and the already open-sourced related code. As the structure and organization of this portion of code require further optimization, we plan to release it after completing the code refactoring.
 
 ## Preparation
