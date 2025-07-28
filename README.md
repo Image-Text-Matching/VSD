@@ -136,7 +136,7 @@ If you find our paper and code useful in your research, please consider giving a
 @inproceedings{chen2025VSD,
   title={Visual Semantic Description Generation with MLLMs for Image-Text Matching},
   author={Chen, Junyu and Gao, Yihua and Li, Mingyong},
-  journal={2025 IEEE International Conference on Multimedia and Expo (ICME)},
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)},
   pages={1--6},
   year={2025},
   organization={IEEE}
