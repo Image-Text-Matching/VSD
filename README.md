@@ -98,7 +98,7 @@ VSD
 
 #### Data Sources:
 
-- Visual semantics describe preprocessed features: [Baidu Yun](https://pan.baidu.com/s/1ClRpz4akDOnTZlCYrS_Blw?pwd=EVDP) (code: AAHR)
+- Visual semantics describe preprocessed features: [Baidu Yun](https://pan.baidu.com/s/1ClRpz4akDOnTZlCYrS_Blw?pwd=EVDP) (code: VSDP)
 - BUTD features: [SCAN (Kaggle)](https://www.kaggle.com/datasets/kuanghueilee/scan-features)  or [Baidu Yun](https://pan.baidu.com/s/1Dmnf0q9J29m4-fyL7ubqdg?pwd=AAHR) (code: AAHR)
 - MSCOCO images: [Official](https://cocodataset.org/#download)  or [Baidu Yun](https://pan.baidu.com/s/1vjae2ODiLqWpNbK4AxiQ9w?pwd=AAHR) (code: AAHR)
 - Flickr30K images: [Official](https://shannon.cs.illinois.edu/DenotationGraph/) or [Baidu Yun](https://pan.baidu.com/s/1NqcL4FIDs-5Did3O67apFw?pwd=AAHR) (code: AAHR)
