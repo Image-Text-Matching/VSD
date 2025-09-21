@@ -100,7 +100,7 @@ VSD
 
 - Visual semantics describe preprocessed features: [Baidu Yun](https://pan.baidu.com/s/1ClRpz4akDOnTZlCYrS_Blw?pwd=EVDP) (code: EVDP)
 - BUTD features: [SCAN (Kaggle)](https://www.kaggle.com/datasets/kuanghueilee/scan-features)  or [Baidu Yun](https://pan.baidu.com/s/1Dmnf0q9J29m4-fyL7ubqdg?pwd=AAHR) (code: AAHR)
-- MSCOCO images: [Official](https://cocodataset.org/#download)  or [Paddle Paddle](https://aistudio.baidu.com/datasetdetail/28191) (code: vd03)
+- MSCOCO images: [Official](https://cocodataset.org/#download)  or [Paddle Paddle](https://aistudio.baidu.com/datasetdetail/28191)
 - Flickr30K images: [Official](https://shannon.cs.illinois.edu/DenotationGraph/) or [SCAN (Kaggle)](https://www.kaggle.com/datasets/eeshawn/flickr30k?select=flickr30k_images)
 - Pretrained models: [BERT-base-uncased](https://huggingface.co/google-bert/bert-base-uncased) , [MiniCPM-V 2.6](https://huggingface.co/openbmb/MiniCPM-V-2_6) , [Florence-2-large-ft](https://huggingface.co/microsoft/Florence-2-large-ft) ,[bge-large-en-v1.5](https://huggingface.co/BAAI/bge-large-en-v1.5) and [OpenCLIP](https://huggingface.co/laion/CLIP-ViT-B-32-laion2B-s34B-b79K) from HuggingFace
 
